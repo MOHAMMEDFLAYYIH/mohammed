@@ -1467,6 +1467,10 @@ body.en .nav-logo {
   border-color: #E4E4E7;
 }
 
+.proj-tech-icon svg {
+  display: block;
+}
+
 .proj-tech-label {
   font-size: 10px;
   font-weight: 600;
