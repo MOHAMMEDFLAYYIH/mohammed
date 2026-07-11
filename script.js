@@ -445,8 +445,8 @@ if (chatToggleBtn && chatWindow) {
           replyAr = botReplies.ar[matchedKey];
           replyEn = botReplies.en[matchedKey];
         } else {
-          replyAr = "شكراً لرسالتك! لم أفهم هذا السؤال تماماً، ولكن يمكنك التواصل معي مباشرة لمناقشة أي تفاصيل عبر البريد الإلكتروني: mohammedihsanflayyih@gmail.com أو واتساب: +9647555332607.";
-          replyEn = "Thanks for your message! I didn't quite get that, but you can contact me directly to discuss details via email: mohammedihsanflayyih@gmail.com or WhatsApp: +9647555332607.";
+          replyAr = "شكراً لرسالتك! لم أفهم هذا السؤال تماماً، ولكن يمكنك التواصل معي مباشرة لمناقشة أي تفاصيل عبر البريد الإلكتروني: mohammedihsanflayyih@gmail.com أو واتساب: +9647755332607.";
+          replyEn = "Thanks for your message! I didn't quite get that, but you can contact me directly to discuss details via email: mohammedihsanflayyih@gmail.com or WhatsApp: +9647755332607.";
         }
 
         addChatMessage(replyAr, replyEn, 'bot');
